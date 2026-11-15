@@ -42,6 +42,10 @@ The demo is intended for portfolio visitors. Keep the optional integrations on y
 
 Run `npm test`, `npm run typecheck`, and `npm run build` to check the app.
 
-## Original team
+## Credits
 
-Thaarak Sriram, [ShrishPremkrishna](https://github.com/ShrishPremkrishna), Kenny, and Jello. Arnold began at the MCP AI Agent Hackathon in July 2025.
+Thaarak Sriram, [Shrish](https://github.com/ShrishPremkrishna), Kenny, and Jello built the original Arnold together at the MCP AI Agent Hackathon in July 2025.
+
+- **Shrish** built the original Python backend and experimented with MongoDB and Bright Data.
+- **Kenny** and **Jello** helped build the original hackathon prototype.
+- **[@jiale-z](https://github.com/jiale-z)** added a Temporal worker to the original project.
